@@ -1,6 +1,6 @@
 ### Brief information 👋
 
-- 🔭 I’m currently working on a Quotes application and my Instagram page
+- 🔭 I’m currently working as a Freelancer
 - 🌱 I’m currently learning backend
 - 👯 I’m looking to collaborate on Firebase with Flutter
 - 💬 Ask me about anything related to Flutter
