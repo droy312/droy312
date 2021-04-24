@@ -1,6 +1,6 @@
 ### Brief information 👋
 
-- 🔭 I’m currently working as a Freelancer
+- 🔭 I’m currently working as a Flutter Freelancer
 - 🌱 I’m currently learning backend
 - 👯 I’m looking to collaborate on interesting open source projects and packages
 - 💬 Ask me about anything related to Flutter
